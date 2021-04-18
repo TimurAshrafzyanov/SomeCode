@@ -1,2 +1,3 @@
-# SomeCode
-Some examples of my code
+# Geometry
+
+Пример написанной мной иерархии геометрических фигур
